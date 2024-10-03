@@ -1,0 +1,24 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: aliceblue;
+}
+.list_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+.list_row:hover {
+  background-color: rgb(7, 7, 7);
+  cursor: pointer;
+}
+.list_row #list_icon {
+  flex: 30%;
+  place-items: center;
+  display: grid;
+}
+.list_row #list_title {
+  flex: 70%;
+}
