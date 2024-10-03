@@ -1,3 +1,6 @@
+.layout_view {
+  display: flex;
+}
 .nav_bar {
   width: 250px;
   background-color: rgb(42, 41, 41);

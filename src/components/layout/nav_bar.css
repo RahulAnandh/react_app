@@ -22,3 +22,6 @@ ul {
 .list_row #list_title {
   flex: 70%;
 }
+.nav_bar {
+  color: brown;
+}
