@@ -36,6 +36,7 @@ const LoginIndex = () => {
         <div className="label_and_input">
           <label>
             <button
+              className="login_button"
               onClick={() => {
                 login();
               }}
