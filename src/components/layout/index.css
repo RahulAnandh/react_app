@@ -1,0 +1,13 @@
+.layout_page {
+  display: flex;
+  height: 100%;
+  width: 100vw;
+}
+.side_bar {
+  width: 250px;
+  background-color: rgb(41, 42, 42);
+}
+.page_content {
+  width: 100%;
+  background-color: rgb(150, 153, 153);
+}
