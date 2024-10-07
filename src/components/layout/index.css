@@ -11,3 +11,14 @@
   width: 100%;
   background-color: rgb(150, 153, 153);
 }
+.side_bar_row {
+  display: flex;
+  color: #fff;
+  height: 50px;
+}
+.side_bar_row #icon {
+  width: 30%;
+}
+.side_bar_row #title {
+  width: 70%;
+}
