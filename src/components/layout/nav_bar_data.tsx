@@ -6,7 +6,7 @@ const nav_bar_data = [
   {
     title: "Home",
     icon: <HomeIcon />,
-    link: "/",
+    link: "/home",
   },
   {
     title: "Dashboard",
